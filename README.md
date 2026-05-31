@@ -1,4 +1,5 @@
 # 🏥 Healthcare Analytics Project
+Healthcare Data Analysis using SQL, Excel, Tableau and Power BI
 
 ## 📌 Project Overview
 This project focuses on analyzing healthcare data to identify trends, improve operational efficiency, and support data-driven decision making. The project demonstrates end-to-end analytics using SQL, Excel, Power BI, and Tableau.
