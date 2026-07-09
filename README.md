@@ -46,7 +46,7 @@ The analysis helps healthcare organizations improve efficiency, monitor performa
 ## 👨‍💻 Author
 K R Rohith Hegade
 
-Aspiring Data Analyst | SQL | Excel | Tableau | Power BI | Healthcare Analytics
+Data Analyst Fresher | SQL | Excel | Tableau | Power BI | Healthcare Analytics
 
 ## 📫 Connect With Me
 LinkedIn:
